@@ -1,0 +1,222 @@
+Tree structure of: F:\UAE PROJECT\03march_updated\21feb_build_stuck\21feb_12_latestblog_done
+
+├── .bolt/
+    ├── config.json
+    ├── prompt
+├── .env.local
+├── .env.production
+├── .eslintignore
+├── .eslintrc.build.json
+├── .gitignore
+├── .vercel/
+    ├── README.txt
+    ├── project.json
+├── .vscode/
+    ├── extensions.json
+    ├── settings.json
+├── 26out.zip
+├── 27FEB.zip
+├── 27feb2.zip
+├── README.md
+├── build.sh
+├── classifieds-website@0.0.0
+├── delhi_ou27.zip
+├── eslint.config.js
+├── generate-sitemap.js
+├── index.html
+├── next-env.d.ts
+├── next.config.mjs
+├── out/
+    ├── 404.html
+    ├── AdminBlogPosts.html
+    ├── AdminDashboard.html
+    ├── AdminLogin.html
+    ├── BlogPostDetails.html
+    ├── CreateListing.html
+    ├── ListingDetails.html
+    ├── Register.html
+    ├── _next/
+        ├── data/
+            ├── fPnrU4JihN5EG7dcTLQNa/
+                ├── AdminBlogPosts.json
+                ├── blog/
+                    ├── 573b3eea-b14c-437c-910c-06c0ef365a0f.json
+                    ├── 626b2b65-5357-49cb-bdb7-33a49baa837c.json
+                    ├── 9a0b96a9-2370-4fb2-8038-e266a91b05d7.json
+                    ├── a3a5ae97-7c91-469c-b91a-5a3e86557af2.json
+                ├── listings/
+                    ├── 0412ff04-8e73-4016-a52b-c629c6fca91b.json
+                    ├── 12ed73e2-19c0-4269-a65d-b5d6dc8b5dd3.json
+                    ├── 15b8a68c-8c7a-4d11-873a-4a9fc380a0e5.json
+                    ├── 1ad510e2-7245-435c-9402-2b5a78fb5a6e.json
+                    ├── 1ea7e536-5649-4398-80ce-f931f6ced2a4.json
+                    ├── 3119df62-9c78-4e8c-950a-d5b549904ee1.json
+                    ├── 3292ebb8-6be2-45b5-b457-192e2fb306a8.json
+                    ├── 34ff6000-2ab5-4ab5-b7a9-d4ab36ed82b0.json
+                    ├── 38c5a67f-bbbc-4b2c-b0ea-2d84e00aac8b.json
+                    ├── 3a7af390-0129-45c2-9098-ca1c87531827.json
+                    ├── 3b3fbfb6-8b1f-494a-8fb1-4b23c6ebf02e.json
+                    ├── 43ef3536-96a3-471c-843a-6213abbc8703.json
+                    ├── 58012cf2-2b12-4e4d-9069-e8cc90837bdc.json
+                    ├── 5d32b97c-3565-4329-9b90-0baa37330618.json
+                    ├── 66fce9a8-0cc9-47fc-b20b-73a98443c414.json
+                    ├── 69b58e1b-cc8e-470a-a5c7-b00076028408.json
+                    ├── 6f369202-a1c7-4110-aa73-a7f4792068b1.json
+                    ├── 70a6755e-6644-4844-afd6-edc896e54203.json
+                    ├── 79b289e2-fcf5-4ca4-990a-bfe36a308f8d.json
+                    ├── 871a79c3-829b-469e-adfd-c373a425b97f.json
+                    ├── 9dd1b49d-59b2-49b5-956a-aec8f32e1f39.json
+                    ├── 9deedb7f-8021-4a47-8187-be000e7f42db.json
+                    ├── a8db9898-6a2b-4b1b-9b27-c94c435aea79.json
+                    ├── a95bc8ea-548c-4887-a08a-ca8827bdc4fe.json
+                    ├── b16459fc-3da6-4b7b-abc1-60a3f0ba3d4f.json
+                    ├── b540f89d-06a7-4b37-8963-ad6ab3e5b90e.json
+                    ├── b86e4c48-d549-41b8-b05a-477e0c8cb864.json
+                    ├── c257b8be-2241-4f83-a951-379c5b6beb14.json
+                    ├── c7fcda2f-7c4e-49b7-a9f9-2cd188803ffa.json
+                    ├── ced28cbe-c94d-422a-8072-286f5a64f3de.json
+                    ├── d2a207d0-439c-480e-a7a7-ce9c2563623d.json
+                    ├── d6bb2cb0-f4e8-42d5-bfad-47354aa00e33.json
+                    ├── e43ff37b-612e-4b6e-b7bc-c2f4e3307cd5.json
+                    ├── ec8bbae8-09f9-4301-8a09-cbf3c09389d9.json
+                    ├── ed313c9d-e8f6-4e7c-b373-706ccdc15dc8.json
+                    ├── f23277b6-ccad-49d9-a6fa-06b5cea82f1a.json
+                    ├── f84d0c41-ccf8-4e32-826f-6eb99a2ba0f9.json
+        ├── fPnrU4JihN5EG7dcTLQNa/
+    ├── admin/
+        ├── blog-posts.html
+    ├── admin-dashboard.html
+    ├── admin.html
+    ├── background.jpg
+    ├── background.webp
+    ├── blog/
+        ├── 573b3eea-b14c-437c-910c-06c0ef365a0f.html
+        ├── 626b2b65-5357-49cb-bdb7-33a49baa837c.html
+        ├── 9a0b96a9-2370-4fb2-8038-e266a91b05d7.html
+        ├── a3a5ae97-7c91-469c-b91a-5a3e86557af2.html
+    ├── create-listing.html
+    ├── dashboard.html
+    ├── index.html
+    ├── listings/
+        ├── 0412ff04-8e73-4016-a52b-c629c6fca91b.html
+        ├── 12ed73e2-19c0-4269-a65d-b5d6dc8b5dd3.html
+        ├── 15b8a68c-8c7a-4d11-873a-4a9fc380a0e5.html
+        ├── 1ad510e2-7245-435c-9402-2b5a78fb5a6e.html
+        ├── 1ea7e536-5649-4398-80ce-f931f6ced2a4.html
+        ├── 3119df62-9c78-4e8c-950a-d5b549904ee1.html
+        ├── 3292ebb8-6be2-45b5-b457-192e2fb306a8.html
+        ├── 34ff6000-2ab5-4ab5-b7a9-d4ab36ed82b0.html
+        ├── 38c5a67f-bbbc-4b2c-b0ea-2d84e00aac8b.html
+        ├── 3a7af390-0129-45c2-9098-ca1c87531827.html
+        ├── 3b3fbfb6-8b1f-494a-8fb1-4b23c6ebf02e.html
+        ├── 43ef3536-96a3-471c-843a-6213abbc8703.html
+        ├── 58012cf2-2b12-4e4d-9069-e8cc90837bdc.html
+        ├── 5d32b97c-3565-4329-9b90-0baa37330618.html
+        ├── 66fce9a8-0cc9-47fc-b20b-73a98443c414.html
+        ├── 69b58e1b-cc8e-470a-a5c7-b00076028408.html
+        ├── 6f369202-a1c7-4110-aa73-a7f4792068b1.html
+        ├── 70a6755e-6644-4844-afd6-edc896e54203.html
+        ├── 79b289e2-fcf5-4ca4-990a-bfe36a308f8d.html
+        ├── 871a79c3-829b-469e-adfd-c373a425b97f.html
+        ├── 9dd1b49d-59b2-49b5-956a-aec8f32e1f39.html
+        ├── 9deedb7f-8021-4a47-8187-be000e7f42db.html
+        ├── a8db9898-6a2b-4b1b-9b27-c94c435aea79.html
+        ├── a95bc8ea-548c-4887-a08a-ca8827bdc4fe.html
+        ├── b16459fc-3da6-4b7b-abc1-60a3f0ba3d4f.html
+        ├── b540f89d-06a7-4b37-8963-ad6ab3e5b90e.html
+        ├── b86e4c48-d549-41b8-b05a-477e0c8cb864.html
+        ├── c257b8be-2241-4f83-a951-379c5b6beb14.html
+        ├── c7fcda2f-7c4e-49b7-a9f9-2cd188803ffa.html
+        ├── ced28cbe-c94d-422a-8072-286f5a64f3de.html
+        ├── d2a207d0-439c-480e-a7a7-ce9c2563623d.html
+        ├── d6bb2cb0-f4e8-42d5-bfad-47354aa00e33.html
+        ├── e43ff37b-612e-4b6e-b7bc-c2f4e3307cd5.html
+        ├── ec8bbae8-09f9-4301-8a09-cbf3c09389d9.html
+        ├── ed313c9d-e8f6-4e7c-b373-706ccdc15dc8.html
+        ├── f23277b6-ccad-49d9-a6fa-06b5cea82f1a.html
+        ├── f84d0c41-ccf8-4e32-826f-6eb99a2ba0f9.html
+    ├── login.html
+    ├── sitemap.xml
+├── output.txt
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public/
+    ├── background.jpg
+    ├── background.webp
+    ├── sitemap.xml
+├── server.js
+├── src/
+    ├── App.tsx
+    ├── assets/
+        ├── loader.gif
+        ├── register_icon.png
+        ├── register_icon2.png
+    ├── components/
+        ├── Card.tsx
+        ├── Footer.tsx
+        ├── Header.tsx
+        ├── LoadingSpinner.tsx
+        ├── NewsletterSubscription.tsx
+    ├── context/
+        ├── AuthContext.tsx
+    ├── hooks/
+        ├── useMyHooks.ts
+    ├── index.css
+    ├── lib/
+        ├── api.ts
+        ├── cloudinary.ts
+        ├── cloudinary_pushed.ts
+        ├── cloudinary_pushed.txt
+        ├── supabase.ts
+    ├── main.tsx
+    ├── pages/
+        ├── AdminBlogPosts.tsx
+        ├── AdminDashboard.tsx
+        ├── AdminLogin.tsx
+        ├── BlogPostDetails.tsx
+        ├── CreateListing.tsx
+        ├── ListingDetails.tsx
+        ├── Register.tsx
+        ├── _app.tsx
+        ├── _document.tsx
+        ├── admin/
+            ├── blog-posts.tsx
+        ├── admin-dashboard.tsx
+        ├── admin.tsx
+        ├── api/
+            ├── blog-posts.ts
+        ├── blog/
+            ├── [id].tsx
+        ├── create-listing.tsx
+        ├── dashboard.tsx
+        ├── index.tsx
+        ├── listings/
+            ├── [id].tsx
+        ├── login.tsx
+    ├── vite-env.d.ts
+├── supabase/
+    ├── .temp/
+        ├── cli-latest
+        ├── gotrue-version
+        ├── pooler-url
+        ├── postgres-version
+        ├── project-ref
+        ├── rest-version
+        ├── storage-version
+    ├── migrations/
+        ├── 20250131122951_bronze_gate.sql
+        ├── 20250131124441_sunny_cliff.sql
+        ├── 20250204122951_add_username_phone_to_profiles.sql
+        ├── 20250207035554_update_profiles_table.sql
+        ├── 20250221043834_create_blog_posts_table.sql
+        ├── 20250221043835_add_image_url_to_blog_posts.sql
+        ├── config.toml
+    ├── nextold_config.toml
+├── tailwind.config.js
+├── tree.py
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── update-exports.mjs
+├── vite
